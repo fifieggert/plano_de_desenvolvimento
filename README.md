@@ -1,2 +1,2 @@
-# plano_de_desenvolvimento
+# Plano de desenvolvimento individual 
 Plano pessoal para orientar/demonstrar evolução na matéria algoritmos avançados
